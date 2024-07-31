@@ -1,0 +1,33 @@
+this.prodottiAggiunti.Columns["codice"].DataPropertyName = "codice";
+this.prodottiAggiunti.Columns["immagine"].DataPropertyName = "immagine";
+this.prodottiAggiunti.Columns["descrizione"].DataPropertyName = "descrizione";
+this.prodottiAggiunti.Columns["dimensioni"].DataPropertyName = "dimensioni";
+this.prodottiAggiunti.Columns["quantita"].DataPropertyName = "quantita";
+this.prodottiAggiunti.Columns["prezzoListino"].DataPropertyName = "prezzoListino";
+this.prodottiAggiunti.Columns["prezzoTotale"].DataPropertyName = "prezzoTotale";
+this.prodottiAggiunti.Columns["prezzoUnitarioScontato"].DataPropertyName = "prezzoUnitarioScontato";
+this.prodottiAggiunti.Columns["prezzoTotaleScontato"].DataPropertyName = "prezzoTotaleScontato";
+this.prodottiAggiunti.Columns["quantitaMelanimici"].DataPropertyName = "quantitaMelanimici";
+this.prodottiAggiunti.Columns["prezzoMelanimici"].DataPropertyName = "prezzoMelanimici";
+this.prodottiAggiunti.Columns["quantitaPuntali"].DataPropertyName = "quantitaPuntali";
+this.prodottiAggiunti.Columns["prezzoPuntali"].DataPropertyName = "prezzoPuntali";
+this.prodottiAggiunti.Columns["quantitaRuote"].DataPropertyName = "quantitaRuote";
+this.prodottiAggiunti.Columns["prezzoRuote"].DataPropertyName = "prezzoRuote";
+this.prodottiAggiunti.Columns["quantitaTerminali"].DataPropertyName = "quantitaTerminali";
+this.prodottiAggiunti.Columns["prezzoTerminali"].DataPropertyName = "prezzoTerminali";
+
+
+
+
+this.sceltaProdotti.Columns["codice"].DataPropertyName = "codice";
+this.sceltaProdotti.Columns["immagine"].DataPropertyName = "immagine";
+this.sceltaProdotti.Columns["descrizione"].DataPropertyName = "descrizione";
+this.sceltaProdotti.Columns["larghezza"].DataPropertyName = "larghezza";
+this.sceltaProdotti.Columns["altezza"].DataPropertyName = "altezza";
+this.sceltaProdotti.Columns["profondita"].DataPropertyName = "profondita";
+this.sceltaProdotti.Columns["dimensioni"].DataPropertyName = "dimensioni";
+this.sceltaProdotti.Columns["prezzoListino"].DataPropertyName = "prezzoListino";
+this.sceltaProdotti.Columns["prezzoMelanimici"].DataPropertyName = "prezzoMelanimici";
+this.sceltaProdotti.Columns["prezzoPuntali"].DataPropertyName = "prezzoPuntali";
+this.sceltaProdotti.Columns["prezzoRuote"].DataPropertyName = "prezzoRuote";
+this.sceltaProdotti.Columns["prezzoTerminali"].DataPropertyName = "prezzoTerminali";
